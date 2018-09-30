@@ -7,6 +7,6 @@
 
 # mobiles
 - moto
--iphone 5s
+- iphone 5s
 - samsung
 - lava 
